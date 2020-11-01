@@ -1,6 +1,6 @@
 ### Salut je suis Lucas 👋
 
-[![HitCount](http://hits.dwyl.com/ishan-me/ishan-me.svg)](http://hits.dwyl.com/ishan-me/ishan-me)
+[![HitCount](http://hits.dwyl.com/Lucas-Rakotomalala/Lucas-Rakotomalala.svg)](http://hits.dwyl.com/Lucas-Rakotomalala/Lucas-Rakotomalala)
 
 
 
