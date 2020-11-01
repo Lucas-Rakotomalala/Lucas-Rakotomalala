@@ -11,7 +11,7 @@
 - 🥅 2021 Goals: Obtenir le diplôme de Licence Informatqiue 
 - ⚡ Fun fact: J'aime le Basket.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Rakotomalala&title_color=#ff0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Rakotomalala&title_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Réseaux sociaux et contact :
 
