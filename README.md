@@ -46,9 +46,10 @@ No Activity tracked this Week
 <br />
 
 ---
-###Projects
+### Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Rakotomalala&repo=Hunter)](https://github.com/Lucas-Rakotomalala/HUnter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Rakotomalala&repo=Pinterest)](https://github.com/Lucas-Rakotomalala/Pinterest)
 
 
 [linkedin]: https://www.linkedin.com/in/lucas-rakotomalala-pro
