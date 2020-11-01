@@ -1,5 +1,7 @@
 ### Salut je suis Lucas 👋
 
+[! [HitCount] (http://hits.dwyl.com/Lucas-Rakotomalala/Lucas-Rakotomalala.svg)] (http://hits.dwyl.com/Lucas-Rakotomalala/Lucas-Rakotomalala)
+
 
 
 ## Je suis étudiant en 3 <sup>ème</sup> de licence informatque à l'université Claude Bernard Lyon 1.
