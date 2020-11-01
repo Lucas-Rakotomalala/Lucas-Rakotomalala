@@ -52,6 +52,7 @@ No Activity tracked this Week
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Rakotomalala&repo=Hunter)](https://github.com/Lucas-Rakotomalala/HUnter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Rakotomalala&repo=Pinterest)](https://github.com/Lucas-Rakotomalala/Pinterest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Rakotomalala&repo=The-Last-Taco)](https://github.com/Lucas-Rakotomalala/TheLastTaco)
 
 
 [linkedin]: https://www.linkedin.com/in/lucas-rakotomalala-pro
