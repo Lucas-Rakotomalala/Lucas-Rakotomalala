@@ -1,7 +1,5 @@
-### Voici ce qu eje travaille  👋
+### Voici ce que je travaille  👋
 
-<!--
-**Lucas-Rakotomalala/Lucas-Rakotomalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -9,4 +7,4 @@ Here are some ideas to get you started:
 - 🌱 J'apprends actuellement Java, C#..
 - ✨ Projet professionel: Pentester/ Cybersécurité.
 - 📫 Contact me: [email] (lucas.rakotomalala@etu.univ-lyon1.fr)
--->
+
