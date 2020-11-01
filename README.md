@@ -13,7 +13,7 @@
 ### Réseaux sociaux et contact :
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
 
 <br />
 
@@ -63,4 +63,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/lucas-rakotomalala-pro
-[gmail]: lmarie.lefevre@univ-lyon1.fr
