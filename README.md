@@ -63,4 +63,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/lucas-rakotomalala-pro
-[gmail]: lucas.rakotomalala35@gmail.com
+[gmail]: lmarie.lefevre@univ-lyon1.fr
