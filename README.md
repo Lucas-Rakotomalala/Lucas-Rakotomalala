@@ -13,7 +13,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Rakotomalala&show_icons=true&title_color=ff0000&text_color=ff0000&icon_color=ff0000&bg_color=000000&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucas_Rakotomalala)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucas-Rakotomalala)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Rakotomalala&lang_counut=8)](https://github.com/anuraghazra/github-readme-stats)
 
